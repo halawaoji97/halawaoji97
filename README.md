@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halawaoji97" alt="halawaoji97" /></a> </p>
 
-- 🔭 I’m currently working on **PT. Icon Plus PLN**
+- 🔭 I’m currently studying  at **Universitas Binas Sarana Informatika - BSI (Information System)**
 
 - 🌱 I’m currently learning **Nuxt JS & Next JS**
 
